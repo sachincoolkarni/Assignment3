@@ -1,0 +1,7 @@
+var person={age:"10", name:"sachin",city:"bng"}
+var fun=function(){
+alert("pesron details:-"+person.age+person.name+person.city);
+
+
+};
+fun();
